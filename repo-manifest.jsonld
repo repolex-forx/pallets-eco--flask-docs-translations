@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-docs-translations/commit/71e4a78866f66fab9737b9c4c9d1108a71a74ee3",
       "git:hexsha": "71e4a78866f66fab9737b9c4c9d1108a71a74ee3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
